@@ -9,4 +9,13 @@ public class sampleClass2 {
 		System.out.println("sample2()");
 	}
 	
+	@Test
+	public void sample22() {
+		System.out.println("sample2()");
+	}
+	
+	@Test
+	public void sample23() {
+		System.out.println("sample2()");
+	}
 }
